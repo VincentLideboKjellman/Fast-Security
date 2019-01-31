@@ -10,7 +10,7 @@ Make a landing-page for FastSecurity, FS 1.0.
 
 ## Installation
 * Clone this repository to your computer:
-    * `$ git clone https://github.com/https://github.com/VincentLideboKjellman/Fast-Security`
+    * `$ git clone https://github.com/VincentLideboKjellman/Fast-Security`
 * Start your server
 * Open the `public/index.php` file in your browser.
 
